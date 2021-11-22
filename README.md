@@ -9,7 +9,7 @@ Because I don't.
 3) MSVC partly solved this with `strtok_s`, but this is intended for systems without it.
 
 ### How to use
-The repo provides an example on how to do this
+The repo provides an example on how to use this.
 
 ### Setup
 The BetterStrTok.c /.h files contain all you will need for this. Compilation was tested on GCC.
